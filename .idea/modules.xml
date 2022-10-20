@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rnsample.iml" filepath="$PROJECT_DIR$/.idea/modules/rnsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rnsample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rnsample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rnsample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rnsample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rnsample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rnsample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rnsample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rnsample.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1729864811/rnsample.clevertap-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/1729864811/rnsample.clevertap-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-615383252/rnsample.clevertap-react-native.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-615383252/rnsample.clevertap-react-native.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-615383252/rnsample.clevertap-react-native.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-615383252/rnsample.clevertap-react-native.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-615383252/rnsample.clevertap-react-native.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-615383252/rnsample.clevertap-react-native.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1386006414/rnsample.react-native-firebase_app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1093342827/rnsample.react-native-firebase_messaging.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-117807737/rnsample.react-native-push-notification.unitTest.iml" />
+    </modules>
+  </component>
+</project>
